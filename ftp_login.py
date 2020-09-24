@@ -40,3 +40,4 @@ def main():
             print('Incorrect input, exiting')
             exit(0)    
     f=anonlogin(hostname, passwd)
+main()
